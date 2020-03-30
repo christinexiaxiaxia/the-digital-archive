@@ -208,6 +208,8 @@ SECTION 02: DATABASES
 				(introduction) (booklet)
 		09	D	"Grave Eternity", performance and
 				installation documentation
+		10	A	"Grave Eternity", participant contributions 				(notes and illustrations)
+		11	A	"Grave Eternity", installation (printed 				images)
 
 		NOTE036		Machine visions. (1/2)
 		NOTE037		Machine visions. (2/2)
@@ -267,6 +269,11 @@ SECTION 03: RE-ENCHANTMENT/DISENCHANTMENT
 		11	D	Photographers and documentation (list of 
 				website links)
 		12	D	Text generation AI (website link)
+		13	D	"Essentially Anonymous", craft and process 
+				(digital images)
+		14	A	"Essentially Anonymous", final books
+				(printed images)
+		15	D	"Essentially Anonymous", book two preview 				(video)
 
 		NOTE047		Model-making and spectatorship. (1/3)
 		NOTE048		Model-making and spectatorship. (2/3)
@@ -356,6 +363,11 @@ SECTION 03: RE-ENCHANTMENT/DISENCHANTMENT
 
 
 SECTION 04: TAKING POWER
+
+	HANGER 01
+
+		Sontag, Susan: "Regarding the Pain of Others" (book)
+
 	
 	FOLDER A: EXHIBITION
 
@@ -377,24 +389,51 @@ SECTION 04: TAKING POWER
 		01	D	"They beg to be touched", craft and process
 				(digital images)
 		02	A	"They beg to be touched", selected images of 				craft and process (printed images)
+		03	A	Toronto Archives access card
+		04	A	Visiting the Toronto Archives (printed 
+				images)
+		05	D	Displays at the Toronto Archives (digital 
+				images)
+		06	D	Archive request (PDF file)
+
+		NOTE0##		Writing workshop
+		NOTE0##		****NOTES FROM ARCHIVES?
 	
 
 	FOLDER C: IN ALL HER GLORY
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	A	Resusci Anne silicone masks (printed images)
+		02	A	"In All Her Glory", craft and process 					(printed images)
+		03	D	"Shall We Gather at the River?" (audio 
+				track and website link)
+		04	D	[SOME SORT OF LINK PAGE WITH MY RESEARCH*********************************
+
+		NOTE0##		W
+		NOTE0##		R
 	
 
 	FOLDER D: SAVE US ALL!
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	D	"Save Us All!", craft and process (digital
+				images)
+		02	A	"Save Us All!", craft and process (printed
+				image)
+		03	D	"Save Us All!", final prints (digital
+				images)
+		04	D	"Save Us All!", final print (printed
+				image)
+		05	D	"Save Us All!", prints on shelf (printed
+				image)
 	
 
 	FOLDER E: OTHER THOUGHTS AND EXTRAS
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	D	"Right to be Forgotten", Radiolab podcast 				(website link)
+		02	D	Reihana, Lisa: "in Pursuit of Venus 
+				[infected]" (website link)
 
 
 ////////////////////////////////////////////////////////////////////////////
@@ -411,19 +450,38 @@ SECTION 05: SORTING THE SYSTEM
 	FOLDER B: CLASSIFYING PAIN
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	D	Rebecca’s email (digital image)
+		02	D	Perec, Georges: "Brief Notes on the Art and 				Manner of Arranging One’s Books" (website 				link)
+		03	D	Chart drafts (digital images)
+		04	D	Mystical diagrams (website link)
+
+		NOTE0##		Planning out classifications
+		NOTE0##		R
 	
 
-	FOLDER C: THE CABINET OF CURIOSITY, DISENCHANTMENT, AND CONTROL
+	FOLDER C: THE CABINET OF DISINTERMENT, PAIN, AND WONDER
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	A	William and Kate (plastic saucer)
+		02	A	Harry and Meghan (mug)
+		03	A	Masters (oil bottle)
+		04	A	Souvenir from the First Communion (plaque)
+		05	A	Masters (oil bottle)
+		06	A	Crown (paper crown)
+		07	A	Erhu player (mechanical doll)
+
+		NOTE###		Planning out classifications
+		NOTE###		R
 	
 
 	FOLDER D: OTHER THOUGHTS AND EXTRAS
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	D	"Do Not Print" (digital images)
+		02	A	"Do Not Print" (three flip books)
+
+		NOTE0##		Planning out classifications
+		NOTE###		R
 		
 
 ////////////////////////////////////////////////////////////////////////////
