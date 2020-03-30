@@ -465,7 +465,7 @@ SECTION 04: TAKING POWER
 				lash glued on (second angle).
 		05	D	"Shall We Gather at the River?" (audio 
 				track and website link)
-		06	D	Looking more at l'Inconnue (website links)
+		06	D	Looking more at l’Inconnue (website links)
 
 		NOTE107		L’Inconnue de la Seine and other objects. 
 				(1/2)
@@ -481,12 +481,12 @@ SECTION 04: TAKING POWER
 		01	D	"Save Us All!", craft and process (digital
 				images)
 		02	A	Royal family paper cut outs
-		02	A	Cool tape (printed image)
-		03	D	"Save Us All!", final prints (digital
+		03	A	Cool tape (printed image)
+		04	D	"Save Us All!", final prints (digital
 				images)
-		04	A	"Save Us All!", final print (printed
+		05	A	"Save Us All!", final print (printed
 				image)
-		05	A	"Save Us All!", prints on shelf (printed
+		06	A	"Save Us All!", prints on shelf (printed
 				image)
 
 		NOTE111		Right to be forgotten and the Royal Family. 
