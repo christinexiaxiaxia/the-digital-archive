@@ -209,7 +209,7 @@ SECTION 02: DATABASES
 		09	D	"Grave Eternity", performance and
 				installation documentation
 		10	A	"Grave Eternity", participant contributions 				(notes and illustrations)
-		11	A	"Grave Eternity", installation (printed 				images)
+		11	A	"Grave Eternity", installation (printed 				image)
 
 		NOTE036		Machine visions. (1/2)
 		NOTE037		Machine visions. (2/2)
@@ -413,12 +413,13 @@ SECTION 04: TAKING POWER
 	FOLDER A: EXHIBITION
 
 		ITEM #	FORMAT
-		01	A	"Exhibition", sketched draft
-		02	D	"Exhibition", printing process (digital 
+		01	A	"Exhibition", sketched drafts
+		02	A	"Exhibition", films
+		03	D	"Exhibition", printing process (digital 
 				images)
-		03	A	"Exhibition", final prints (printed images)
-		04	D	Lightbox, craft and process (digital images)
-		05	A	Lightbox, final product (printed image)
+		04	A	"Exhibition", final print (printed images)
+		05	D	Lightbox, craft and process (digital images)
+		06	A	Lightbox, final product (printed image)
 
 		NOTE095		Public photography and new year goals.
 		NOTE096		Proximity/Familiarity.
@@ -456,11 +457,15 @@ SECTION 04: TAKING POWER
 	FOLDER C: IN ALL HER GLORY
 
 		ITEM #	FORMAT
-		01	A	Resusci Anne silicone masks (printed images)
-		02	A	"In All Her Glory", craft and process 					(printed images)
-		03	D	"Shall We Gather at the River?" (audio 
+		01	A	Resusci Manikin Faces (bagged)
+		02	A	Resusci Manikin Faces
+		03	A	Resusci Manikin Face, painted with one false 
+				lash glued on.
+		04	A	Resusci Manikin Face, painted with one false 
+				lash glued on (second angle).
+		05	D	"Shall We Gather at the River?" (audio 
 				track and website link)
-		04	D	[SOME SORT OF LINK PAGE WITH MY RESEARCH*********************************
+		06	D	Looking more at l'Inconnue (website links)
 
 		NOTE107		L’Inconnue de la Seine and other objects. 
 				(1/2)
@@ -470,19 +475,18 @@ SECTION 04: TAKING POWER
 		NOTE110		"Shall We Gather at the River" revisited and 
 				thinking about section names.
 	
-
 	FOLDER D: SAVE US ALL!
 
 		ITEM #	FORMAT
 		01	D	"Save Us All!", craft and process (digital
 				images)
-		02	A	"Save Us All!", craft and process (printed
-				image)
+		02	A	Royal family paper cut outs
+		02	A	Cool tape (printed image)
 		03	D	"Save Us All!", final prints (digital
 				images)
-		04	D	"Save Us All!", final print (printed
+		04	A	"Save Us All!", final print (printed
 				image)
-		05	D	"Save Us All!", prints on shelf (printed
+		05	A	"Save Us All!", prints on shelf (printed
 				image)
 
 		NOTE111		Right to be forgotten and the Royal Family. 
@@ -499,6 +503,7 @@ SECTION 04: TAKING POWER
 		01	D	"Right to be Forgotten", Radiolab podcast 				(website link)
 		02	D	Reihana, Lisa: "in Pursuit of Venus 
 				[infected]" (website link)
+		03	D	Setting up my shrine.
 
 		NOTE114		Removing the china from the cabinet. (1/3)
 		NOTE115		Removing the china from the cabinet. (2/3)
@@ -523,7 +528,8 @@ SECTION 05: SORTING THE SYSTEM
 	FOLDER A: THE RECORDS, THE ARCHIVE, AND THE DATABASE
 
 		ITEM #	FORMAT
-		01	D	Ca
+		01	D	The making of my file cabinet (digital 
+				images)
 
 		NOTE124		Planning my process ‘book’. (1/5)
 		NOTE125		Planning my process ‘book’. (2/5)
@@ -548,13 +554,17 @@ SECTION 05: SORTING THE SYSTEM
 	FOLDER C: THE CABINET OF DISINTERMENT, PAIN, AND WONDER
 
 		ITEM #	FORMAT
-		01	A	William and Kate (plastic saucer)
-		02	A	Harry and Meghan (mug)
+		01	A	William and Kate (mug)
+		02	A	Harry and Meghan (plastic saucer)
 		03	A	Masters (oil bottle)
 		04	A	Souvenir from the First Communion (plaque)
-		05	A	Masters (oil bottle)
-		06	A	Crown (paper crown)
-		07	A	Erhu player (mechanical doll)
+		05	A	Crown (paper crown)
+		06	A	Erhu player (mechanical doll)
+		07	A	Incense sticks
+		08	A	Ornate metal box (closed)
+		09	A	Ornate metal box (open)
+		10	A	Shell-shaped metal box (closed)
+		11	A	Shell-shaped box (open)
 
 		NOTE131		Thinking about materials and screens. 
 		NOTE132		Displaying at GradEx. (1/2)
@@ -590,6 +600,8 @@ SECTION 05: SORTING THE SYSTEM
 		ITEM #	FORMAT
 		01	D	"Do Not Print" (digital images)
 		02	A	"Do Not Print" (three flip books)
+		03	A	"Do Not Print" (three flip books) (detail)
+		04	A	Locket (printed images)
 
 		NOTE148		Making my flip book and thinking about 
 				contemporary documentary practices. (1/2)
