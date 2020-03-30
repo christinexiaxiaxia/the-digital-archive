@@ -88,7 +88,11 @@
 }
 
 .folder {
+	display: grid;
+	grid-template: auto / 1fr; /* ROWS / COLUMNS */
+
 	width: calc(100% - 6rem - 4px);
+	height: auto;
 	margin: 3rem;
 	margin-bottom: 3rem;
 	/*padding: 3rem;*/
@@ -128,14 +132,18 @@
 	font-size: 15px;
 	text-align: left;
 
-	cursor: pointer;
+	cursor: zoom-in;
 }
 
 .active, .collapsible:hover {
     background: rgba(141,143,83,1);
 }
 
-.page {
+.active {
+	cursor: zoom-out;
+}
+
+.pages {
 	display: none;
 }
 
@@ -181,6 +189,10 @@ a:hover {
 	margin-top: 1.5rem;
 
 	opacity: 0;
+}
+
+.actual {
+	text-decoration: underline;
 }
 
 .records {
@@ -282,6 +294,15 @@ img {
 	height: auto;
 }
 
+.hoverimg {
+	position: fixed;
+	width: auto;
+	height: 28rem;
+
+	display: none;
+
+	z-index: 100;
+}
 
 
 
