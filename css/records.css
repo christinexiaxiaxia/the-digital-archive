@@ -1,12 +1,12 @@
 
 iframe {
 	position: fixed;
-	width: calc(100% - 326px);
+	width: calc(100% - 346px);
 	height: calc(100% - 112px);
 	top: 0;
 	left: 0;
 
-	margin: 56px 152px 56px 152px;
+	margin: 56px 172px 56px 172px;
 
 	border: solid 1px black; 
 }
