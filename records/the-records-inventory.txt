@@ -1,0 +1,437 @@
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////////////////                       ///////////////////////////
+//////////////////////////          THE          ///////////////////////////
+//////////////////////////        RECORDS        ///////////////////////////
+//////////////////////////       INVENTORY       ///////////////////////////
+//////////////////////////                       ///////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+
+A = Found in The Archive (physical items)
+
+D = Found in The Database (digital items)
+
+E = On display in The Exhibit (physical items)
+
+NOTE### = Notebook scan (always in The Archive)
+
+HANGER = Single hangers with an item attached (always in The Archive)
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+ITEM CODE SYSTEM: SECTION.FOLDER.ITEM.FORMAT
+
+SAMPLE ITEM CODES:
+	
+	02.A.04.D (SECTION 02, FOLDER A, ITEM 04, THE DATABASE)
+	==> Colorized expedition portraits (digital images)
+
+	01.B.NOTE019 (SECTION 01, FOLDER B, NOTE 019)
+	==> Reflecting on the ‘archive of feelings’. (3/3)
+
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+
+SECTION 01: PRE-WORKSHOP
+
+	FOLDER A: ART CRAWL
+
+		ITEM #	FORMAT
+		01	A + D	Beuys, Joseph: "Plight" (image + video)
+		02	D	Cao Fei: "Haze and Fog" (website link)
+		03	D	Dunietz, Maya: "Thicket" (video)
+		04	A	Halsey, Lauren: "Open Space #5" (exhibition 
+				pamphlet)
+		05	A	Nous les Arbres (exhibition  booklet)
+		06	D	Nous les Arbres (website link)
+		07	A	Penne, Giuseppe: "Respirare l'ombra" (image)
+		08	D	Sattar, Reetu: "Lost Tune" (website link)
+		09	D	Vanz, Thomas: "Verse" (website link)
+
+		NOTE001		Notes from The Life of a Dead Tree. 
+				(covered)
+		NOTE002		Notes from The Life of a Dead Tree. 
+				(uncovered)
+		NOTE003		Exploitation and visiting Centre Pompidou 
+				and Fondation Louis Vuitton.
+		NOTE004		Capturing a moment with the senses. (1/2)
+		NOTE005		Capturing a moment with the senses. (2/2)
+		NOTE006		Collective sound and protest. (covered)
+		NOTE007		Collective sound and protest. (uncovered)
+		NOTE008		Visiting Nous les Arbres. (covered)
+		NOTE009		Visiting Nous les Arbres. (uncovered)
+		NOTE010		The universe and the universal truth. (1/2)
+		NOTE011		The universe and the universal truth. (2/2)	
+		NOTE012		Thoughts from Brian Jungen’s Friendship 
+				Center. (1/2)
+		NOTE013		Thoughts from Brian Jungen’s Friendship 
+				Center. (2/2)	
+	
+	HANGER 01 
+
+		Cvetkovich, Ann: "In the Archives of Lesbian Feelings: 
+		Documentary and Popular Culture" (booklet)
+
+
+	FOLDER B: TEXTS
+
+		ITEM #	FORMAT
+		01	A	Cardinal, Douglas: "Architecture as a Living 
+				Process" (booklet)
+		02	A	Dunne, John: "No Man is an Island" (poem)
+		03	A	Hauser, CJ: "The Crane Wife" (booklet)
+		04	D	Mehrotra, Rahul: "Simultaneous Modernity: 
+				Negotiations and Resistances in Urban India"
+				(digital reading)
+
+		NOTE014		Reflecting on some of my summer course 
+				content. (1/2)
+		NOTE015		Reflecting on some of my summer course 
+				content. (2/2)
+		NOTE016		Placemaking and doing what feels right.
+		NOTE017		Reflecting on the ‘archive of feelings’. 
+				(1/3)		NOTE018		Reflecting on the ‘archive of feelings’. 
+				(2/3)		NOTE019		Reflecting on the ‘archive of feelings’. 
+				(3/3)
+
+
+	FOLDER C: BEFORE I EVEN KNEW IT
+
+		ITEM #	FORMAT
+		01	A + D	"A hundred flowers bloom" (booklet + digital 
+				images)
+		02	D	"Thank you for reminding me" (video and 
+				digital images)
+		03	D	"Vernacular Beauty" (video and digital 
+				images)
+
+		NOTE020		Reviewing my experiences with taxidermy.
+
+
+	FOLDER D: OTHER THOUGHTS AND EXTRAS
+
+		ITEM #	FORMAT
+		01	A	PEANUTBUSTER PARFAIT + Annex Animal Hospital 
+				(image)
+		02	A	Proof of presentation (receipt print-outs)
+		03	D	First-day presentation (PDF)
+
+		NOTE021		Naivety and machine learning.
+		NOTE022		Doing what feels right, who are we designing 
+				things for?
+		NOTE023		Taxidermy and the archive of feelings.
+		NOTE024		An excuse to just make things.		NOTE025		Fact vs. Fiction, Objective vs. Subjective, 
+				Exclusivity + Naiveté.
+		NOTE026		Reconstruction of history and our biases. 
+				(1/3)
+		NOTE027		Reconstruction of history and our biases. 
+				(2/3)
+		NOTE028		Reconstruction of history and our biases. 
+				(3/3)
+
+
+	HANGER 02 
+
+		Workshop 1: Ideas & Stuff (booklet)
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+SECTION 02: DATABASES
+	
+	FOLDER A: OR BEST OFFER
+
+		ITEM #	FORMAT
+		01	D	Kijiji, listing descriptions (text)
+		02	D	Kijiji, listing images (digital images)
+		03	A	Kijiji, select listing images (images)
+		NOTE029		Kijiji as an ‘archive of feelings’. (1/2)
+		NOTE030		Kijiji as an ‘archive of feelings’. (2/2)
+		NOTE031		Kijiji as a democratic and honest archive.
+
+
+	FOLDER B: TROPHIES
+
+		ITEM #	FORMAT
+		01	D	Taxidermy business websites (list of website 
+				links)
+		02	A	Taxidermy quotes (page)
+		03	A	Bringing an archive back to life (posters)
+
+		NOTE032		Bringing Your Trophy Back to Life. (1/3)
+		NOTE033		Bringing Your Trophy Back to Life. (2/3)
+		NOTE034		Bringing Your Trophy Back to Life. (3/3)
+
+
+	FOLDER C: HUMAN ARTIFACTS
+
+		ITEM #	FORMAT
+		01	A	"Human Artifacts", draft (book)
+		02	A	"Human Artifacts", colour test prints 
+				(prints)
+		03	D	"Human Artifacts", all collected images 
+				(digital images)
+		04	D	KesselsKramer: "In Almost Every Picture" 
+				series (website link)
+		05	D	Paglen, Trevor: "The Monsters of Capitalism" 
+				(website link)
+
+		NOTE035		Machine learning and KesselsKramer.
+
+
+	FOLDER D: GRAVE ETERNITY
+
+		ITEM #	FORMAT
+		01	D	Crawford, Kate and Trevor Paglen: 
+				"Excavating AI" (website link)
+		02	D	The eternal life of Henrietta Lacks 
+				(website links)
+		03	D	Human Terrain System (website link)
+		04	D	Paglen, Trevor: "It began as a military 
+				experiment" (digital images)
+		05	D	Japanese Female Facial Expression (JAFFE) 
+				dataset (digital images and website link)
+		06	D	Paglen, Trevor: "Machine Visions" (website 
+				link)
+		07	A	InterAccess: "Scaffolds I can no longer see" 
+				(exhibition pamphlet)
+		08	A	Vesna, Victoria: "Database Aesthetics" 
+				(introduction) (booklet)
+		09	D	"Grave Eternity", performance and
+				installation documentation
+
+		NOTE036		Machine visions. (1/2)
+		NOTE037		Machine visions. (2/2)
+		NOTE038		Excavating the human terrain. (1/5)
+		NOTE039		Excavating the human terrain. (2/5)
+		NOTE040		Excavating the human terrain. (3/5)
+		NOTE041		Excavating the human terrain. (4/5)
+		NOTE042		Excavating the human terrain. (5/5)
+		NOTE043		Possession and self-documentation.
+
+
+	FOLDER E: OTHER THOUGHTS AND EXTRAS
+
+		ITEM #	FORMAT
+		01	D	Seu, Mindy: "The Poetry of Tools" (website 
+				link)
+		02	A	Flusser, Vilém: "Into the Universe of 
+				Technical Images" (book)
+		03	D	Ideas for making a humanized database ("ACT 
+				3 IDEAS 'N' STUFF!!!") (website link)
+
+		NOTE044		Giving life back to an archive.
+		NOTE045		Noting problems and possible routes to 
+				resolutions.
+		NOTE046		Demons, social media, and taxidermy.
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+SECTION 03: RE-ENCHANTMENT/DISENCHANTMENT
+	
+	FOLDER A: ESSENTIALLY ANONYMOUS
+
+		ITEM #	FORMAT
+		01	D	Carter, T. Donald: "The Mammals of the 
+				Vernay-Hopwood Chindwin Expedition, Northern 
+				Burma" (digital book)
+		02	D	Vernay-Hopwood Chindwin Expedition of the 
+				American Museum of Natural History (1934–
+				1935) (website link)
+		03	D	Portraits from Vernay-Hopwood Chindwin 
+				Expedition of the American Museum of Natural 
+				History (1934–1935) (digital images)
+		04	D	Colorized expedition portraits (digital 
+				images)
+		05	D	Museum and displays from the American Museum 
+				of Natural History (digital images)
+		06	A	"Outsiders" (images)
+		07	D	"Essentially Anonymous", draft (website 
+				link)
+		08	D	Breasted's 1919-1920 Expedition to the Near 
+				East (digital images)
+		09	A	Alcoff, Linda Martín: "The Problem of 
+				Speaking for Others" (booklet)
+		10	D	KesselsKramer: "Small Change" (website link)
+		11	D	Photographers and documentation (list of 
+				website links)
+		12	D	Text generation AI (website link)
+
+		NOTE047		Model-making and spectatorship. (1/3)
+		NOTE048		Model-making and spectatorship. (2/3)
+		NOTE049		Model-making and spectatorship. (3/3)
+		NOTE050		Finding patterns and metadata.			NOTE051		New paths to follow and some small thoughts 
+				on ‘ruins’.	
+		NOTE052		Essentially anonymous and looking back to 
+				the ‘archive of feelings’.
+		NOTE053		Group discussion and more on Essentially 
+				Anonymous.		NOTE054		Technology and catalogues.
+		NOTE055		The power of (in)visibility. (1/5)
+		NOTE056		The power of (in)visibility. (2/5)
+		NOTE057		The power of (in)visibility. (3/5)
+		NOTE058		The power of (in)visibility. (4/5)
+		NOTE059		The power of (in)visibility. (5/5) +  Who am 
+				I to speak for them? (1/6)		NOTE060		Who am I to speak for them? (2/6)
+		NOTE061		Who am I to speak for them? (3/6)
+		NOTE062		Who am I to speak for them? (4/6)
+		NOTE063		Who am I to speak for them? (5/6)
+		NOTE064		Who am I to speak for them? (6/6)
+		NOTE065		Making a website about (in)visibility. (1/3)
+		NOTE066		Making a website about (in)visibility. (2/3)
+		NOTE067		Making a website about (in)visibility. (3/3)
+
+
+	HANGER 01 
+
+		Catalogue outtakes (images)
+
+
+	FOLDER B: SAVING GRACE
+		
+		ITEM #	FORMAT
+		01	D	Songs from the Amazing Grace collection from 
+				the Library of Congress (audio tracks and 
+				list of website links)
+		02	D	"Saving Grace", draft (website link)
+		03	D	"Saving Grace" (website link)
+		04	D	The Three Perfections (digital images and 
+				website link)
+
+		NOTE068		Archives and the web. (1/2)
+		NOTE069		Archives and the web. (2/2)		NOTE070		Keysmashing on the web and the purpose of a 
+				catalogue.		NOTE071		Reviving a web experience and being against 
+				mockups.		NOTE072		Saving Grace and technical images.		NOTE073		Embodied documentation and having a 
+				conversation about history. (1/2)
+		NOTE074		Embodied documentation and having a 
+				conversation about history. (2/2)
+
+
+	HANGER 02 
+
+		"The Metadata of the Archives" manifesto (pamphlet)
+
+	
+	FOLDER C: AMERICAN MEMORY
+
+		ITEM #	FORMAT
+		01	D	Documentations of American folk life from 
+				the Library of Congress (list of website 
+				links)	
+		02	D	"Shall We Gather at the River?" (audio 
+				track and website link)
+		03	A	"American Memory", selected images (series 
+				of 18 images)
+		04	D	NASA's space expeditions from Archive.org 
+				(website link)
+		05	D	Memory Palace podcast (website link)
+
+		NOTE075		Memory palace.
+		NOTE076		Reconstructing an American memory.
+
+
+	FOLDER D: OTHER THOUGHTS AND EXTRAS
+
+		ITEM #	FORMAT
+		01	D	Bradford, Mark: "Tomorrow is Another Day" 
+				(website link)
+		02	D	Gallagher, Ellen: "Nu-Nile" (website link)
+		03	A	hooks, bell: "Representations of Whiteness 
+				in the Black Imagination" (booklet)
+		04	D	Peebles, Melvin Van: "Watermelon Man" 
+				(videos)
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+SECTION 04: TAKING POWER
+	
+	FOLDER A: EXHIBITION
+
+		ITEM #	FORMAT
+		01	A	"Exhibition", sketched draft
+		02	D	"Exhibition", printing process (digital 
+				images)
+		03	A	"Exhibition", final prints (printed images)
+		04	D	Lightbox, craft and process (digital images)
+		05	A	Lightbox, final product (printed image)
+
+		NOTE077		M
+		NOTE078		R
+	
+
+	FOLDER B: THEY BEG TO BE TOUCHED
+
+		ITEM #	FORMAT
+		01	D	"They beg to be touched", craft and process
+				(digital images)
+		02	A	"They beg to be touched", selected images of 				craft and process (printed images)
+	
+
+	FOLDER C: IN ALL HER GLORY
+
+		ITEM #	FORMAT
+		01	D	Ca
+	
+
+	FOLDER D: SAVE US ALL!
+
+		ITEM #	FORMAT
+		01	D	Ca
+	
+
+	FOLDER E: OTHER THOUGHTS AND EXTRAS
+
+		ITEM #	FORMAT
+		01	D	Ca
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+SECTION 05: SORTING THE SYSTEM
+	
+	FOLDER A: THE RECORDS, THE ARCHIVE, AND THE DATABASE
+
+		ITEM #	FORMAT
+		01	D	Ca
+	
+
+	FOLDER B: CLASSIFYING PAIN
+
+		ITEM #	FORMAT
+		01	D	Ca
+	
+
+	FOLDER C: THE CABINET OF CURIOSITY, DISENCHANTMENT, AND CONTROL
+
+		ITEM #	FORMAT
+		01	D	Ca
+	
+
+	FOLDER D: OTHER THOUGHTS AND EXTRAS
+
+		ITEM #	FORMAT
+		01	D	Ca
+		
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////                               //////////////////////
+///////////////////////        LAST UPDATED ON        //////////////////////
+///////////////////////                               //////////////////////
+///////////////////////          29 MAR 2020          //////////////////////
+///////////////////////                               //////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
