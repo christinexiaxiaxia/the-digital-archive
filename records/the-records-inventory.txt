@@ -610,6 +610,7 @@ SECTION 05: SORTING THE SYSTEM
 		NOTE150		Thoughts... (on religion, I guess).
 		NOTE151		Assorted thoughts during reading week.
 		NOTE152		Charts and brochures.
+		NOTE153		Cole's cool idea.
 		
 
 ////////////////////////////////////////////////////////////////////////////
