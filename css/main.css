@@ -1,0 +1,294 @@
+@font-face {
+	font-family: GT Super Text;
+	src: url("../fonts/GTSuperText-Book.otf");
+	font-style: normal;
+}
+@font-face {
+	font-family: GT Super Text;
+	src: url("../fonts/GTSuperText-BookItalic.otf");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: GT Super Display Light;
+	src: url("../fonts/GTSuperDisplay-Light.otf");
+	font-style: normal;
+}
+@font-face {
+	font-family: GT Super Display Light;
+	src: url("../fonts/GTSuperDisplay-LightItalic.otf");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Neue Plak;
+	src: url("../fonts/NeuePlak-SemiBold.otf");
+}
+
+
+/*STRUCTURE*/
+
+* {
+	font-family: GT Super Text;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 32px;
+
+	cursor: crosshair;
+}
+
+::-webkit-scrollbar { /* WIDTH */
+	width: 5px;
+}
+
+::-webkit-scrollbar-track { /* BACKGROUND */
+	/*background: rgb(230,190,180);*/
+}
+
+::-webkit-scrollbar-thumb { /* HANDLE */
+    background: rgba(255,245,235,1);
+}
+
+.wrapper {
+	display: grid;
+	grid-template: auto / 1fr 3fr; /* ROWS / COLUMNS */
+	grid-column-gap: 3rem;
+
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: calc(100vw - 6rem);
+    height: calc(100vh - 6rem);
+
+    padding: 3rem;
+}
+
+.sidebar {
+	width: calc(100% - 2rem);
+
+}
+
+.cabinet {
+	display: grid;
+	grid-template: auto / 1fr; /* ROWS / COLUMNS */
+	/*grid-row-gap: 3rem;*/
+
+	width: calc(100% - 6rem - 2px);
+	padding: 3rem;
+
+    background: rgba(175,135,115,1);
+	border: 1px solid black;
+
+    overflow: auto;
+}
+
+.section {
+	border: 2px solid rgba(255,245,235,1);
+	margin-bottom: 3rem;
+}
+
+.folder {
+	width: calc(100% - 6rem - 4px);
+	margin: 3rem;
+	margin-bottom: 3rem;
+	/*padding: 3rem;*/
+
+    background: rgba(141,143,83,1);
+	border: 2px solid rgba(255,245,235,1);
+}
+
+.page {
+	width: calc(100% - 12rem - 4px);
+	margin: 3rem 3rem 0rem 3rem;
+	padding: 3rem;
+
+    background: rgba(255,245,235,1);
+}
+
+.extra-marg-bot {
+	margin-bottom: 3rem;
+}
+
+
+
+
+/*COLLAPSIBLE STUFF*/
+
+.collapsible {
+    background: rgba(255,245,235,1);
+	width: 50%;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	margin-top: -2px;
+	margin-left: -2px;
+	margin-bottom: -2px;
+
+	border: 2px solid rgba(255,245,235,1);
+	outline: none;
+
+	font-size: 15px;
+	text-align: left;
+
+	cursor: pointer;
+}
+
+.active, .collapsible:hover {
+    background: rgba(141,143,83,1);
+}
+
+.page {
+	display: none;
+}
+
+
+
+
+/*TYPOGRAPHY*/
+
+p {
+	margin-top: 0;
+}
+
+a {
+	margin: 0;
+	color: black;
+}
+
+a:hover {
+	cursor: alias;
+}
+
+.italic {
+	font-style: italic;
+	line-height: 1.5rem;
+}
+
+.main-title {
+	font-family: GT Super Display Light;
+	font-style: normal;
+	font-size: 5rem;
+	line-height: 5rem;
+	margin: 0;
+}
+
+.main-title:hover {
+	font-style: italic;
+	cursor: help;
+}
+
+.desc {
+	display: block;
+	line-height: 1.5rem;
+	margin-top: 1.5rem;
+
+	opacity: 0;
+}
+
+.records {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	margin-left: 3rem;
+	margin-bottom: 2.5rem;
+
+	font-family: GT Super Text;
+	font-size: 1rem;
+
+	cursor: alias;
+
+	z-index: 100;
+}
+
+p.title {
+	font-family: GT Super Display Light;
+	font-style: normal;
+	font-size: 1.5rem;
+	margin: 1rem 0rem 1rem 0rem;
+
+	font-variant-numeric: lining-nums;
+}
+
+.section.title {
+	margin-top: 0;
+	margin-bottom: 3rem;
+	padding: 0.5rem 1rem;
+
+	text-align: center;
+
+    background: rgba(255,245,235,1);
+}
+
+button.title {
+	font-family: GT Super Display Light;
+	font-style: normal;
+	font-size: 1.5rem;
+
+	font-variant-numeric: lining-nums;
+}
+
+.title:hover {
+	font-style: italic;
+}
+
+.normal {
+	font-style: normal;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.italic:hover {
+	font-style: normal;
+}
+
+.main-title.italic:hover {
+	font-style: italic;
+}
+
+.folder-title {
+	margin-left: 2rem;
+
+	font-variant-numeric: lining-nums;
+}
+
+.hanger-title {
+	margin-top: 1rem;
+}
+
+.item {
+	margin-left: 4rem;
+
+	font-variant-numeric: oldstyle-nums;
+}
+
+.archive-item {
+	background: black;
+
+	font-variant-numeric: oldstyle-nums;
+}
+
+.archive-item:hover {
+	font-style: normal;
+	cursor: crosshair;
+}
+
+
+
+
+/*IMAGES*/
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
