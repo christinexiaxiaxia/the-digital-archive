@@ -208,8 +208,10 @@ SECTION 02: DATABASES
 				(introduction) (booklet)
 		09	D	"Grave Eternity", performance and
 				installation documentation
-		10	A	"Grave Eternity", participant contributions 				(notes and illustrations)
-		11	A	"Grave Eternity", installation (printed 				image)
+		10	A	"Grave Eternity", participant contributions
+ 				(notes and illustrations)
+		11	A	"Grave Eternity", installation (printed
+ 				image)
 
 		NOTE036		Machine visions. (1/2)
 		NOTE037		Machine visions. (2/2)
@@ -273,7 +275,8 @@ SECTION 03: RE-ENCHANTMENT/DISENCHANTMENT
 				(digital images)
 		14	A	"Essentially Anonymous", final books
 				(printed images)
-		15	D	"Essentially Anonymous", book two preview 				(video)
+		15	D	"Essentially Anonymous", book two preview
+ 				(video)
 
 		NOTE047		Model-making and spectatorship. (1/3)
 		NOTE048		Model-making and spectatorship. (2/3)
@@ -441,7 +444,8 @@ SECTION 04: TAKING POWER
 		ITEM #	FORMAT
 		01	D	"They beg to be touched", craft and process
 				(digital images)
-		02	A	"They beg to be touched", selected images of 				craft and process (printed images)
+		02	A	"They beg to be touched", selected images of
+ 				craft and process (printed images)
 		03	A	Toronto Archives access card
 		04	A	Visiting the Toronto Archives (printed 
 				images)
@@ -500,7 +504,8 @@ SECTION 04: TAKING POWER
 	FOLDER E: OTHER THOUGHTS AND EXTRAS
 
 		ITEM #	FORMAT
-		01	D	"Right to be Forgotten", Radiolab podcast 				(website link)
+		01	D	"Right to be Forgotten", Radiolab podcast
+ 				(website link)
 		02	D	Reihana, Lisa: "in Pursuit of Venus 
 				[infected]" (website link)
 		03	D	Setting up my shrine.
@@ -542,7 +547,9 @@ SECTION 05: SORTING THE SYSTEM
 
 		ITEM #	FORMAT
 		01	D	Rebecca’s email (digital image)
-		02	D	Perec, Georges: "Brief Notes on the Art and 				Manner of Arranging One’s Books" (website 				link)
+		02	D	Perec, Georges: "Brief Notes on the Art and
+ 				Manner of Arranging One’s Books" (website
+ 				link)
 		03	D	Chart drafts (digital images)
 		04	D	Mystical diagrams (website link)
 
